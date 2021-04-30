@@ -8,6 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "@babel/core": "^7.12.9",
+    "@emotion/babel-plugin": "^11.0.0",
+    "@emotion/babel-preset-css-prop": "^11.0.0",
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.1.1",
+    "@emotion/styled": "^11.0.0",
+    "child_process": "^1.0.2",
+    "date-fns": "^2.16.1",
+    "firebase": "^8.1.2",
+    "firebase-admin": "^9.4.1",
+    "fs": "0.0.1-security",
     "next": "10.0.3",
     "react": "17.0.1",
     "react-dom": "17.0.1"
