@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Demo: https://productos-pw.netlify.app/
+![image](https://user-images.githubusercontent.com/35345400/122619605-6e3a2000-d056-11eb-9b2a-8fc5f2142a1e.png)
+
 ## Getting Started
 
 First, run the development server:
